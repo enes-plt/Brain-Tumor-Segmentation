@@ -5,7 +5,7 @@
 
 3) Run the train.py
 
-4) You will see that files folder will be generated. (For the practical perspective, I have already provided for you)
+4) You will see that files folder will be generated. (For the practical perspective, I have already provided for you, so you can skip this part. Otherwise, you need to wait more than 30 mins)
 
 5) Run the test.py
 
