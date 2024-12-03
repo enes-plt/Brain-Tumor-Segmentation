@@ -30,5 +30,7 @@ Download the files folder.
 The settings I used:
   Seed: 42
   Num_Epochs: 3
+  
+https://drive.google.com/drive/folders/1w0bORdLU0COjPeHcjg30IP3S1fNtB37T
 
 https://github.com/enes-plt/Brain-Tumor-Segmentation/assets/54ad0b0b-2cfa-4e04-8977-50615183436d
