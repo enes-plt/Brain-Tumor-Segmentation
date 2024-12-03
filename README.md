@@ -1,5 +1,5 @@
 ## Brain Tumor Segmentation
-As a team, Designed a deep learning - computer vision model to segment medical images (MRI, CT, X-ray), anatomical structures (bones, organs, tumors) to classify diseases, and leveraging advanced frameworks for image processing and data analysis.
+As a team, designed a deep learning - computer vision model to segment medical images (MRI, CT, X-ray), anatomical structures (bones, organs, tumors) to classify diseases, and leveraging advanced frameworks for image processing and data analysis.
 
 ## Creating a Model
 1. Run train.py first, and input the necessary information.
