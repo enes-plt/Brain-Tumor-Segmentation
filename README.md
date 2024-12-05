@@ -31,6 +31,6 @@ The settings I used:
   Seed: 42
   Num_Epochs: 3
   
-https://drive.google.com/drive/folders/1w0bORdLU0COjPeHcjg30IP3S1fNtB37T
+https://drive.google.com/drive/folders/1w0bORdLU0COjPeHcjg30IP3S1fNtB37T?usp=sharing
 
 https://github.com/enes-plt/Brain-Tumor-Segmentation/assets/4b4a4861-2359-4a36-ad53-cc6bf178338a
